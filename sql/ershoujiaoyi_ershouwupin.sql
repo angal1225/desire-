@@ -1,0 +1,3 @@
+INSERT INTO ershoujiaoyi.ershouwupin (id, title, type, image, deal, `where`, price, sell_user, sell_phone, introduce, date) VALUES (1, '苹果手机', '手机', 'liebiao_xiaomi6.jpg', '顺丰快递包邮', '网络', 11, '一只大胖猪', '15535110178', '美帝，掌握核心科技', 1556202253);
+INSERT INTO ershoujiaoyi.ershouwupin (id, title, type, image, deal, `where`, price, sell_user, sell_phone, introduce, date) VALUES (2, '华为手机', '手机', 'liebiao_hongmin4.jpg', '面基', '校园小树林', 11, '一只大胖猪', '15535110178', '华而不实，为所欲为', 1556202253);
+INSERT INTO ershoujiaoyi.ershouwupin (id, title, type, image, deal, `where`, price, sell_user, sell_phone, introduce, date) VALUES (3, '联想手机', '手机', 'pinpai3.png', '面基', '学校餐厅一楼', 11, '一只大胖猪', '15535110178', '美帝良心想', 1556202253);

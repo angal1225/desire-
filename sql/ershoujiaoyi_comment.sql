@@ -1,0 +1,2 @@
+INSERT INTO ershoujiaoyi.comment (id, user, comment, date, is_reported) VALUES (1, 'wzh666', '哇这部手机好帅，亲可以适当便宜些吗> <，好想要', 1556202253, 1);
+INSERT INTO ershoujiaoyi.comment (id, user, comment, date, is_reported) VALUES (1, 'wzh666', '这部手机挺不错', 1556265907, null);
